@@ -7,7 +7,7 @@ All models were trained on Google Colab, and the notebooks have been copied from
 
 ## Project Overview
 
-This project aims to classify news articles as either "reliable" or "unreliable" using machine learning models. The dataset is sourced from Kaggle's Fake News dataset, and various models, including Naive Bayes and transformers (TinyBERT, DistilBERT), are compared. All models were trained on Google Colab, and the notebooks have been copied from there.
+This project aims to classify news articles as either "fake" or "unreliable" using machine learning models. The dataset is sourced from Kaggle's Fake News dataset. Various models, including Naive Bayes and transformers (TinyBERT, DistilBERT), are compared. All models were trained on Google Colab, and the notebooks have been copied from there.
 
 ## Problem Description
 
