@@ -2,7 +2,7 @@
 
 ## Academic Context
 
-This project was developed as part of the coursework for "Fundamentals of Computational Intelligence," a subject at the Faculty of Technical Sciences. 
+This project was developed as part of the coursework for "Computational Intelligence Fundamentals" a subject at the Faculty of Technical Sciences. 
 All models were trained on Google Colab, and the notebooks have been copied from there.
 
 ## Project Overview
