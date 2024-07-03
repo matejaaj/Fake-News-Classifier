@@ -11,7 +11,7 @@ This project aims to classify news articles as either "fake" or "unreliable" usi
 
 ## Problem Description
 
-The challenge is to accurately identify unreliable news articles, which can often be based on partially true information that is distorted or presented out of context. This requires models that can evaluate the credibility of sources, the balance of tone, and the accuracy of information.
+The challenge is to accurately identify fake news articles, which can often be based on partially true information that is distorted or presented out of context. This requires models that can evaluate the credibility of sources, the balance of tone, and the accuracy of information.
 
 ## Data Overview
 
